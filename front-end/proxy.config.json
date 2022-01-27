@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+        "target": "https://andysite-d9eed.uc.r.appspot.com",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
